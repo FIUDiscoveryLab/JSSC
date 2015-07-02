@@ -1,2 +1,2 @@
 # JSSC
-Java Simple Serial Connector
+Java Simple Serial Connector Library
